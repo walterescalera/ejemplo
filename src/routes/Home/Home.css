@@ -1,0 +1,11 @@
+header {
+  padding: 50px;
+}
+
+.main-container {
+  display: grid;
+}
+
+header {
+  padding: 0px;
+}
